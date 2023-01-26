@@ -1,0 +1,31 @@
+{
+  "name": "ibidi-v14",
+  "version": "1.0.1",
+  "description": "✈ Discord sunucuma katılın: https://discord.gg/pyhd386rRp 👌",
+  "main": "index.js",
+  "dependencies": {
+    "chillout": "^5.0.0",
+    "discord.js": "^14.3.0",
+    "path": "^0.12.7",
+    "plsargs": "^0.1.6",
+    "recursive-readdir": "^2.2.2",
+    "dotenv": "^16.0.2",
+    "stuffs": "^0.1.17"
+  },
+  "scripts": {
+    "start": "node --no-warnings index.js"
+  },
+  "author": "Adivise",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibidi/ibidi-v14-slash.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ibidi/ibidi-v14-slash/issues"
+  },
+  "homepage": "https://github.com/ibidi/ibidi-v14-slash",
+  "devDependencies": {
+    "node": "^17.0.1"
+  }
+}
